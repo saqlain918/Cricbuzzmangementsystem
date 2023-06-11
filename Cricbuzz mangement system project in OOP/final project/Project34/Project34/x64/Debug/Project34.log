@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Header.cpp
+C:\Users\Ali BaBa COMPUTER\source\repos\Project34\Project34\Header.cpp(33,6): warning C4101: 'No': unreferenced local variable
+  Generating Code...
+  Project34.vcxproj -> C:\Users\Ali BaBa COMPUTER\source\repos\Project34\x64\Debug\Project34.exe

@@ -1,0 +1,6 @@
+1	pakistan
+2	india
+3	NewZealand
+4       Australia
+5	England
+

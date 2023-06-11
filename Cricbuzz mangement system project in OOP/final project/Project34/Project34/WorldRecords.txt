@@ -1,0 +1,4 @@
+pakistan	india	12-2-2023	lahore	odi
+43	5	4	6	4	5	3	5	2
+pak	aus	18-10-2022	lahore	t20
+234	1234	2345	5	3	45	23	2345	345	2234

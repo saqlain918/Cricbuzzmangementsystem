@@ -1,0 +1,7 @@
+1   Pakistan   Australia   09/12/2022   Dubai,UAE
+2   England   NewZealand   15/12/2022   Australia
+3   Australia   NewZealand	  25/12/2022   England
+4   Pakistan   NewZealand   01/01/2023   Lahore
+5   pakistan   india   12-2-2023   lahore
+6   pak   aus   18-10-2022   lahore
+7   muraders   muraders   8/01/2023   Faislabad

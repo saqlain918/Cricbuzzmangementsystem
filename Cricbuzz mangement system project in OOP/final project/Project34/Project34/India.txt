@@ -1,0 +1,11 @@
+1   Shikhar_Dhawan 23 251	     10821	  54.3	    2	   2	   5	   10	    
+2   Ishan_Kishan 14   175	     7215	  42.5	    3	   12	   25	   0	    
+3   Virat_Kohli	  98  305	     12552	  45.2	    10	   12	   20	   255	    
+4   Shreyas_Iyer  17	355	     15008	  47.3	    8	   7	   14	   205	    
+5   KL_Rahul	94    108    	 2015	  32.5	    4	   10	   55	   125	    
+6   Washing_Sundar 18	700	     20452	  36.25	    21	   22	   45	   605	    
+7   Axar_Patel   77   125	     2552	  28.6	    25	   29	   54	   152	    
+8   Shardul_Thakur  99  180	     802	  9.14	    100	   96	   58	   236	    
+9   Kuldeep_Yadav   10	203	     1521	  15.2	    98	   97	   91	   300	    
+10  Mohammed_Siraj  44   52	     852	  20.1	    88	   85	   81	   102	    
+11  Umra_Malik   55	523      3201	  11.25	    0	   5	   8	   805	    
